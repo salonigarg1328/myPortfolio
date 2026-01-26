@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "id": "rentease",
+      "name": "RentEase - House Rental Platform",
+      "createdAt": "2024-01-15T00:00:00Z",
+      "url": "https://github.com/salonigarg1328/rentease",
+      "description": "Cloud-based house rental platform built with MERN stack. Features include user authentication, property listings with advanced search filters, booking management, and secure payment integration. Deployed on cloud infrastructure.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "NodeJS",
+          "iconifyClass": "logos-nodejs"
+        },
+        {
+          "name": "MongoDB",
+          "iconifyClass": "logos-mongodb"
+        }
+      ]
+    },
+    {
+      "id": "ecommerce",
+      "name": "E-Commerce Application",
+      "createdAt": "2023-10-20T00:00:00Z",
+      "url": "https://github.com/salonigarg1328/ecommerce",
+      "description": "Full stack e-commerce application with secure payment integration. Features include product catalog with categories, shopping cart functionality, user authentication & authorization, order management system, and admin dashboard for inventory management.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Express",
+          "iconifyClass": "simple-icons:express"
+        },
+        {
+          "name": "MongoDB",
+          "iconifyClass": "logos-mongodb"
+        }
+      ]
+    },
+    {
+      "id": "portfolio",
+      "name": "Personal Portfolio Website",
+      "createdAt": "2024-05-01T00:00:00Z",
+      "url": "https://github.com/salonigarg1328/masterPortfolio",
+      "description": "Responsive personal portfolio website showcasing projects, skills, certifications, and achievements. Built with React and modern UI/UX design principles. Features include dark mode, smooth animations, and contact form integration.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "CSS3",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "HTML5",
+          "iconifyClass": "logos-html-5"
+        }
+      ]
+    }
+  ]
+}
