@@ -2,7 +2,7 @@
   "private": true,
   "name": "saloniportfolio",
   "version": "0.1.0",
-  "homepage": "https://salonigarg.github.io",
+  "homepage": "https://salonigarg1328.github.io/myPortfolio",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
