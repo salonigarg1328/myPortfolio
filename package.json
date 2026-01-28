@@ -1,12 +1,12 @@
 {
   "private": true,
   "name": "saloniportfolio",
+  "homepage": "https://salonigarg1328.github.io/myPortfolio/",
   "version": "0.1.0",
-  "homepage": "https://salonigarg1328.github.io/myPortfolio",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject",
     "start": "react-scripts --openssl-legacy-provider start",
     "test": "react-scripts test"
@@ -15,7 +15,6 @@
     "apollo-boost": "^0.4.4",
     "baseui": "^9.65.3",
     "chart.js": "^2.9.3",
-    "gh-pages": "^2.1.1",
     "node-fetch": "^2.6.0",
     "pdfjs-dist": "^2.12.313",
     "prettier-package-json": "^2.1.3",
